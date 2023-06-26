@@ -8,9 +8,9 @@
 ## README
 
 ### Changelog:
-** Date updated: 6.25.2023 by Allen White (Dash description and screenshots)
-** Date updated: 6.4.2023 by Allen White (additional screenshots and functionality)
-** Date updated: 5.28.2023 by Allen White (initial commit and description)s
+* * Date updated: 6.25.2023 by Allen White (Dash description and screenshots)
+* * Date updated: 6.4.2023 by Allen White (additional screenshots and functionality)
+* * Date updated: 5.28.2023 by Allen White (initial commit and description)s
 ## Background
 ### Intent – 
 This product was developed for Grazioso Salvare by Allen White to allow for easy, intuitive filtering of datasets for animal records.
